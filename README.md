@@ -42,8 +42,6 @@ npm start
 ## 3. Access App
 # Open http://localhost:5173 in multiple browser tabs/windows.
 
-## 🧪 Testing with Multiple Users
-
 ### Local Testing:
 - Open the app in multiple browser windows/tabs or use incognito mode
 - Start drawing - you'll see real-time synchronization
